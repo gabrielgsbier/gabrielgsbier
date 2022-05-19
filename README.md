@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gabriel Bier
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, ReactNative, NodeJS, NextJS, NestJS, SQL
