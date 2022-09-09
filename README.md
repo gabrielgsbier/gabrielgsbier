@@ -1,5 +1,9 @@
-- 👋 Nice to see you! My name is Gabriel Bier.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, ReactNative, NodeJS, NextJS, NestJS, SQL
+👋 Nice to see you! My name is Gabriel Bier.
+
+
+🌱 Always in constant learning and passionate about technology, I believe that knowledge has no limits and we must seek it more and more.
+
+<h3>Full Stack Developer.</h3>
 
 <div style='display: inline_block'>
   <img width='50' height='40' align='center' alt='GabrielBier-TypeScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
