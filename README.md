@@ -12,7 +12,7 @@
   <img width='50' height='40' align='center' alt='GabrielBier-CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />        
   <img width='50' height='40' align='center' alt='GabrielBier-Flutter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
-  
+  ##
 <div style='display: inline_block'>
   <a href='mailto:gabrielsahinabier@gmail.com' target='_blank'>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target='_blank'/>
